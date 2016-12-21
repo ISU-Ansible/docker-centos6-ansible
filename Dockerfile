@@ -1,5 +1,5 @@
 FROM centos:6
-MAINTAINER Jeff Geerling
+MAINTAINER Barry Britt <bbritt@iastate.edu>
 
 # Install Ansible and other requirements.
 RUN yum makecache fast \
